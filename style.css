@@ -78,9 +78,9 @@ body
 {
   color: #b2ff00;
 }
-.fa-angle-right
+.fa-angle-left
 {
-  float: right;
+  float: left;
 }
 .sub-menu-2
 {
@@ -93,4 +93,11 @@ body
   margin-top: -40px;
   margin-left: 140px;
   background: rgb(0,100,0)
+}
+h1
+{
+  text-align: center;
+    font-size: 50px;
+    text-decoration: underline;
+  color: #00008B
 }
