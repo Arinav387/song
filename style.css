@@ -21,7 +21,7 @@ body
 {
   display: inline-flex;
   list-style: none;
-  color: #fff;
+  color: #FFD700;
 }
 .menu-bar ul li
 {
@@ -32,12 +32,12 @@ body
 .menu-bar ul li a
 {
   text-decoration: none;
-  color: #fff;
+  color: #FFD700;
 }
 .active, .menu-bar ul li:hover
 {
-  background: #2bab0d;
-  border-radius: 3px;
+  background: #B8860B;
+  border-radius: 5px;
 }
 .menu-bar .fa
 {
@@ -76,7 +76,7 @@ body
 }
 .menu-bar ul li:hover .sub-menu-1 ul li a:hover
 {
-  color: #b2ff00;
+  color: #fff;
 }
 .fa-angle-left
 {
@@ -99,5 +99,14 @@ h1
   text-align: center;
     font-size: 50px;
     text-decoration: underline;
-  color: #00008B
+   color: #FAEBD7;
+    text-align: center;
+}
+p {
+  font-family: sans-serif;
+  padding: 0 40px;
+  font-size: 40px;
+  font-style: oblique;
+  color: #7FFFD4;
+  text-align: center;
 }
